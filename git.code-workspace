@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../coding/C"
+		},
+		{
+			"path": "../coding/python"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"selectionsort.h": "c"
+		}
+	}
+}
